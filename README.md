@@ -5,7 +5,7 @@ Atualmente estou no curso de **ADS na Unisanta** (turma de 2026). Minha jornada 
 ---
 
 ### 🚀 No que estou trabalhando:
-- **Transição:** Saindo d hardware para o desenvolvimento de software.
+- **Transição:** Saindo de hardware para o desenvolvimento de software.
 - **Estudos atuais:** Quebrando a cabeça e aprendendo C++, Kotlin e Python.
 - **Objetivo:** Conseguir minha primeira oportunidade real como dev.
 
