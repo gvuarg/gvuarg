@@ -10,7 +10,7 @@ Atualmente estou no curso de **ADS na Unisanta** (turma de 2026). Minha jornada 
 - **Objetivo:** Conseguir minha primeira oportunidade real como dev.
 
 ### 🛠️ Bagagem técnica
-Não sou novo na área; já tenho uma base sólida resolvendo problemas de hardware e infraestrutura, o que me ajuda muito a entender como o código se comporta no mundo real.
+Não sou novo na área; já tenho uma base sólida resolvendo problemas de hardware de forma autônoma, o que me ajuda a entender como o código se comporta no mundo real.
 
 ### 📫 Entre em contato comigo!
 Se quiser falar sobre tecnologia, hardware ou sobre o curso na Unisanta, só chamar:
