@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! eu sou o Giovanne Amparo! 👋
 
-<!--
-**gvuarg/gvuarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente estou no curso de **ADS na Unisanta** (turma de 2026). Minha jornada na tecnologia começou pelo lado de fora da máquina — com hardware e suporte técnico — e agora estou focando em construir o que roda dentro delas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 No que estou trabalhando:
+- **Transição:** Saindo d hardware para o desenvolvimento de software.
+- **Estudos atuais:** Quebrando a cabeça e aprendendo C++, Kotlin e Python.
+- **Objetivo:** Conseguir minha primeira oportunidade real como dev.
+
+### 🛠️ Bagagem técnica
+Não sou novo na área; já tenho uma base sólida resolvendo problemas de hardware e infraestrutura, o que me ajuda muito a entender como o código se comporta no mundo real.
+
+### 📫 Entre em contato comigo!
+Se quiser falar sobre tecnologia, hardware ou sobre o curso na Unisanta, só chamar:
+- **LinkedIn:** [Giovanne Amparo](https://www.linkedin.com/in/giovanne-amparo)
+- **Instagram:** [@gvuarg](https://www.instagram.com/gvuarg)
+
+---
+*"Hardware é o que você chuta, software é o que você xinga. Estou aprendendo a ser xingado."*
