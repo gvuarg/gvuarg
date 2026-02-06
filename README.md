@@ -18,4 +18,3 @@ Se quiser falar sobre tecnologia, hardware ou sobre o curso na Unisanta, só cha
 - **Instagram:** [@gvuarg](https://www.instagram.com/gvuarg)
 
 ---
-*"Hardware é o que você chuta, software é o que você xinga. Estou aprendendo a ser xingado."*
